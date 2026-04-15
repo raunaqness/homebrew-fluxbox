@@ -1,6 +1,6 @@
 cask "fluxbox" do
   version "0.1.0"
-  sha256 "4c46ee12aae4fe7fbd4ad78cbf0a62129cb918405e2e1601eec2c9521357c9bd"
+  sha256 "355d6f39301648b84eeff10d8b4347b1bda7f063a71bc99f2106f54e4ad6756f"
 
   url "https://github.com/raunaqness/fluxbox/releases/download/v#{version}/FluxBox_#{version}_aarch64.dmg"
   name "FluxBox"
